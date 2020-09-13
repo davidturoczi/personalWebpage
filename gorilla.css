@@ -1,0 +1,21 @@
+body{
+    background-image: url(gorillahatter.jpg);
+    background-size: 90% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #333;
+    color: white;
+    font-family: Lucida Sans Unicode;
+}
+#kep{
+    width: 50%;
+    padding-left: 25%;
+}
+.Tartalom{
+    width: 80%;
+    padding-left: 10%;
+}
+p{
+    text-align: justify;
+}
